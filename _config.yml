@@ -1,0 +1,13 @@
+# Einstellungen der Webseite (GitHub Pages / Jekyll)
+# Vor dem Veröffentlichen die drei Platzhalter unten ausfüllen.
+
+title: Zeitaufnahme           # Name der App, wie er im App Store steht
+description: Arbeitszeit erfassen und auswerten – für iPhone, iPad und Mac
+theme: jekyll-theme-minimal
+lang: de
+
+# Platzhalter – bitte ersetzen
+app_name: Zeitaufnahme          # Name der App im App Store
+verantwortlich: Lucas Sommerfeld # Name für die Datenschutzerklärung
+kontakt_email: info@quadropus.de
+stand: 25.10.2026                # Datum der Datenschutzerklärung
